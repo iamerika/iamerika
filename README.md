@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamerika
 - 👀 I’m interested in GIS
 - 🌱 I’m currently learning xml
-- 💞️ I’m looking to collaborate on bees
+- 💞️ I’m looking to collaborate on web dev. and data analytics
 - 📫 How to reach me ...
 
 <!---
